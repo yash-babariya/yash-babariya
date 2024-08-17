@@ -1,7 +1,4 @@
-# Yash Babariya - Full-Stack Developer
-
-![Profile Image](https://github.com/user-attachments/assets/f87626c6-4b6a-4d41-b27d-65789a4c6c0f)
-
+[Profile-image](https://github.com/user-attachments/assets/6c31f973-2316-408f-8c0f-1357789c5765) # Yash Babariya - Full-Stack Developer
 
 Welcome to my GitHub repository! I'm Yash Babariya, a passionate full-stack developer with a strong focus on building efficient, scalable, and user-friendly applications.
 
