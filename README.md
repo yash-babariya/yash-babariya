@@ -48,7 +48,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-babariya&repo=justadd&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&show_icons=true" alt="JustAdd Project"/>
     </a>
     <a href="https://myfamilyhelper.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-babariya&repo=myfamilyhelper&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&show_icons=true" alt="MyFamilyHelper Project"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-babariya&repo=MyFamilyHelper&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&show_icons=true" alt="MyFamilyHelper Project"/>
     </a>
 </div>
 
