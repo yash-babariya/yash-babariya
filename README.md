@@ -7,7 +7,7 @@
 <p align="center" style="display: flex; justify-content: space-between; max-width: 960px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Moai.png" alt="Moai" width="50" height="50" />
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Oncoming%20Fist%20Medium-Light%20Skin%20Tone.png" alt="Oncoming Fist Medium-Light Skin Tone" width="50" height="50" />
 </p>
 
 <!-- Typing Animation -->
