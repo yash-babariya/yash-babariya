@@ -52,56 +52,13 @@
 
 ## 🌟 FEATURED PROJECTS
 
-| Projects | Live Demo | Repository | Description | Tech Stack |
-|:---------|:---------:|:----------:|:------------|:-----------|
-| 🛍️ Just Add | [Live Demo](https://justadd.vercel.app) | [Source Code](https://github.com/yash-babariya/justadd) | Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings. | `React.js` `Redux` `SCSS` `React Router` |
-| 👨‍👩‍👧‍👦 MyFamilyHelper | [Live Demo](https://myfamilyhelper.vercel.app) | [Source Code](https://github.com/yash-babariya/myfamilyhelper) | Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location. | `MongoDB` `Express` `React` `Node.js` |
+<div align="center">
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
-  
-  <!-- Just Add -->
-  <a href="https://github.com/yash-babariya/justadd" target="_blank" style="text-decoration: none;">
-    <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: all 0.3s;">
-      <img src="https://img.shields.io/badge/🛍️_Just_Add-1a1b27?style=for-the-badge&logo=shopify&logoColor=3DDCFF"/>
-      <p style="color: #fff; font-size: 14px;">Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://justadd.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
-        </a>
-        <a href="https://github.com/yash-babariya/justadd" target="_blank">
-          <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
-        </a>
-      </p>
-    </div>
-  </a>
-
-  <!-- MyFamilyHelper -->
-  <a href="https://github.com/yash-babariya/myfamilyhelper" target="_blank" style="text-decoration: none;">
-    <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: all 0.3s;">
-      <img src="https://img.shields.io/badge/👨‍👩‍👧‍👦_MyFamilyHelper-1a1b27?style=for-the-badge&logo=homebridge&logoColor=3DDCFF"/>
-      <p style="color: #fff; font-size: 14px;">Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://myfamilyhelper.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
-        </a>
-        <a href="https://github.com/yash-babariya/myfamilyhelper" target="_blank">
-          <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
-        </a>
-      </p>
-    </div>
-  </a>
+| Project & Description | Tech Stack | Links |
+|:---------------------|:-----------|:------|
+| **🛍️ Just Add** <br><br> Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white) ![Router](https://img.shields.io/badge/Router-CA4245?style=flat&logo=reactrouter&logoColor=white) | [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://justadd.vercel.app) [![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-babariya/justadd) |
+| **👨‍👩‍👧‍👦 MyFamilyHelper** <br><br> Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location. | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://myfamilyhelper.vercel.app) [![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-babariya/myfamilyhelper) |
+| **🎨 Portfolio** <br><br> My personal portfolio showcasing my projects, skills, and journey as a MERN Stack Developer. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![EmailJS](https://img.shields.io/badge/EmailJS-FF6C37?style=flat&logo=gmail&logoColor=white) | [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://yash-babariya.netlify.app/) |
 
 </div>
 <!-- View All Projects -->
