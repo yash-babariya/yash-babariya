@@ -44,19 +44,119 @@
 </p>
 
 <!-- Added animated project cards -->
+<!-- ... previous code ... -->
+
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
   Featured Projects
 </h2>
 
+<div align="center">
+
+<!-- Project 1 -->
+<details>
+<summary>
+  <h3>🌟 JustAdd - Social Media Platform</h3>
+</summary>
+
 <p align="center">
-  <a href="https://justadd.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-babariya&repo=justadd&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
-  <a href="https://myfamilyhelper.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-babariya&repo=myfamilyhelper&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=F8D866&hide_border=true&show_icons=false" />
+  <img src="https://your-image-url.com/justadd-preview.png" alt="JustAdd Preview" width="600px"/>
+</p>
+
+<p align="center">
+  <a href="https://justadd.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/yash-babariya/justadd"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+#### 🎯 Overview
+A modern social media platform built with the MERN stack, featuring real-time interactions and a sleek user interface.
+
+#### ⚡ Key Features
+- 🔐 JWT Authentication & Authorization
+- 📱 Responsive Design
+- 💬 Real-time Chat
+- 🖼️ Image Upload & Sharing
+- 👥 User Following System
+
+#### 🛠️ Tech Stack
+- Frontend: `React.js` `Redux` `Tailwind CSS`
+- Backend: `Node.js` `Express.js` `MongoDB`
+- Tools: `Socket.io` `Cloudinary` `JWT`
+
+</details>
+
+<!-- Project 2 -->
+<details>
+<summary>
+  <h3>👨‍👩‍👧‍👦 MyFamilyHelper - Family Management App</h3>
+</summary>
+
+<p align="center">
+  <img src="https://your-image-url.com/familyhelper-preview.png" alt="MyFamilyHelper Preview" width="600px"/>
+</p>
+
+<p align="center">
+  <a href="https://myfamilyhelper.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/yash-babariya/myfamilyhelper"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+#### 🎯 Overview
+A comprehensive family management application that helps families organize tasks, events, and memories.
+
+#### ⚡ Key Features
+- 📅 Family Calendar
+- ✅ Task Management
+- 💰 Expense Tracking
+- 📸 Photo Albums
+- 🎉 Event Planning
+
+#### 🛠️ Tech Stack
+- Frontend: `React.js` `Context API` `Material-UI`
+- Backend: `Node.js` `Express.js` `MongoDB`
+- Tools: `AWS S3` `Firebase` `Redux`
+
+</details>
+
+<!-- Project 3 -->
+<details>
+<summary>
+  <h3>🛒 E-Commerce Platform</h3>
+</summary>
+
+<p align="center">
+  <img src="https://your-image-url.com/ecommerce-preview.png" alt="E-Commerce Preview" width="600px"/>
+</p>
+
+<p align="center">
+  <a href="https://your-ecommerce-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+#### 🎯 Overview
+A full-featured e-commerce platform with modern design and seamless user experience.
+
+#### ⚡ Key Features
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- 💳 Payment Integration
+- 🔍 Advanced Search
+- 📊 Admin Dashboard
+
+#### 🛠️ Tech Stack
+- Frontend: `Next.js` `Redux Toolkit` `Styled Components`
+- Backend: `Node.js` `Express.js` `MongoDB`
+- Tools: `Stripe` `Redis` `Docker`
+
+</details>
+
+<!-- More Projects Button -->
+<p align="center">
+  <a href="https://github.com/yash-babariya?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
+
+</div>
 
 <!-- Added animated contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-babariya&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
