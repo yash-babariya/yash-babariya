@@ -7,7 +7,7 @@
 
 <!-- Hacker Style Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Hacking...-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-OK-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
   <img src="https://img.shields.io/badge/System-Online-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
 </p>
 
