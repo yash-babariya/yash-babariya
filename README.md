@@ -23,9 +23,7 @@
 </p>
 
 ## 🚀 TECH STACK
-<div align="center">
-  <img src="https://img.shields.io/badge/_____________-0D1117?style=for-the-badge&color=0D1117" width="250" height="3">
-</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker&theme=dark&perline=5"/>
 </p>
