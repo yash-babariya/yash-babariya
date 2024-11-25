@@ -138,6 +138,8 @@
 <p align="center" style="margin-top: 50px;">
   <img src="https://img.shields.io/badge/🇮🇳_Proud_to_be-Indian-138808?style=for-the-badge&labelColor=FF9933&color=138808&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAxOCI+PHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjE4IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
 </p>
+
+<div class="tenor-gif-embed" data-postid="20098867" data-share-method="host" data-aspect-ratio="0.85625" data-width="100%"><a href="https://tenor.com/view/crayon-shin-chan-crayon-shin-chan-dance-gif-20098867">Crayon Shin Chan Crayon Shin Chan Dance Sticker</a>from <a href="https://tenor.com/search/crayon+shin+chan-stickers">Crayon Shin Chan Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=100&section=footer"/>
 
