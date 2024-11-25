@@ -50,27 +50,26 @@
   </div>
 </div>
 
-<!-- Projects Section -->
 <h2 align="center">
-  <div style="display: inline-block; position: relative;">
-    <span style="font-size: 28px; font-weight: 600; color: #fff;">Featured Projects</span>
-    <div style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 3px; background: linear-gradient(to right, #3DDCFF, #9B30FF);"></div>
-  </div>
+  <span style="font-size: 30px; font-weight: 600; background: linear-gradient(45deg, #3DDCFF, #9B30FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Featured Projects
+  </span>
 </h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(280px, 1fr)); gap: 16px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(280px, 1fr)); gap: 20px; padding: 20px;">
   
-  <!-- JustAdd -->
+  <!-- Just Add -->
   <a href="https://github.com/yash-babariya/justadd" style="text-decoration: none;">
-    <div style="background: #1a1b27; padding: 16px; border-radius: 10px; border: 1px solid #2d2d2d;">
-      <h3>🌟 JustAdd</h3>
-      <p>Modern Social Media Platform</p>
-      <div style="margin: 8px 0;">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: transform 0.3s;">
+      <h3 style="color: #3DDCFF; margin-bottom: 10px;">🛍️ Just Add</h3>
+      <p style="color: #fff; font-size: 14px; margin-bottom: 15px;">Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings.</p>
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
       </div>
-      <div style="display: flex; gap: 8px; justify-content: center;">
+      <div style="display: flex; gap: 10px; justify-content: center;">
         <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
         <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
       </div>
@@ -79,15 +78,16 @@
 
   <!-- MyFamilyHelper -->
   <a href="https://github.com/yash-babariya/myfamilyhelper" style="text-decoration: none;">
-    <div style="background: #1a1b27; padding: 16px; border-radius: 10px; border: 1px solid #2d2d2d;">
-      <h3>👨‍👩‍👧‍👦 MyFamilyHelper</h3>
-      <p>Family Task Management App</p>
-      <div style="margin: 8px 0;">
-        <img src="https://img.shields.io/badge/MERN-00ED64?style=flat"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: transform 0.3s;">
+      <h3 style="color: #3DDCFF; margin-bottom: 10px;">👨‍👩‍👧‍👦 MyFamilyHelper</h3>
+      <p style="color: #fff; font-size: 14px; margin-bottom: 15px;">Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location.</p>
+      <div style="margin: 15px 0;">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       </div>
-      <div style="display: flex; gap: 8px; justify-content: center;">
+      <div style="display: flex; gap: 10px; justify-content: center;">
         <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
         <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
       </div>
@@ -96,8 +96,7 @@
 
 </div>
 
-<!-- View All Projects Button -->
-<div style="margin-top: 16px;">
+<div style="margin-top: 20px;">
   <a href="https://github.com/yash-babariya?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
