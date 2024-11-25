@@ -24,7 +24,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://img.shields.io/badge/TECH_STACK-0D1117?style=for-the-badge&logoColor=white&color=4f46e5&labelColor=3b82f6" width="300" height="40"/>
+  <img src="https://img.shields.io/badge/Tech_Stack-88888?style=for-the-badge&logoColor=black"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker&theme=dark&perline=5"/>
