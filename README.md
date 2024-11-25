@@ -29,9 +29,8 @@
 </p>
 
 <!-- Tools & Technologies -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools_&_Technologies-88888?style=for-the-badge&logoColor=black"/>
-</p>
+## ⚡ TOOLS & TECHNOLOGIES
+
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -41,9 +40,7 @@
 </p>
 
 <!-- Featured Projects -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech_Stack-88888?style=for-the-badge&logoColor=black"/>
-</p>
+## 🌟 FEATURED PROJECTS
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
   
@@ -104,9 +101,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-babariya&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <!-- Let's Connect -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Let's_Connect-3DDCFF?style=for-the-badge&logoColor=black"/>
-</p>
+## 🤝 LET'S CONNECT
 <p align="center">
   <a href="https://linkedin.com/in/yash-babariya-a370b52a5" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
