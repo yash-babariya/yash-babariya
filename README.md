@@ -143,7 +143,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1520" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="720" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="20" />
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=100&section=footer"/>
 
