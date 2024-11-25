@@ -57,11 +57,7 @@ Featured Projects
 <summary>
   <h3>🌟 JustAdd - Social Media Platform</h3>
 </summary>
-
-<p align="center">
-  <img src="https://your-image-url.com/justadd-preview.png" alt="JustAdd Preview" width="600px"/>
-</p>
-
+  
 <p align="center">
   <a href="https://justadd.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/yash-babariya/justadd"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -91,10 +87,6 @@ A modern social media platform built with the MERN stack, featuring real-time in
 </summary>
 
 <p align="center">
-  <img src="https://your-image-url.com/familyhelper-preview.png" alt="MyFamilyHelper Preview" width="600px"/>
-</p>
-
-<p align="center">
   <a href="https://myfamilyhelper.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/yash-babariya/myfamilyhelper"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -118,42 +110,6 @@ A comprehensive family management application that helps families organize tasks
 
 <!-- Project 3 -->
 <details>
-<summary>
-  <h3>🛒 E-Commerce Platform</h3>
-</summary>
-
-<p align="center">
-  <img src="https://your-image-url.com/ecommerce-preview.png" alt="E-Commerce Preview" width="600px"/>
-</p>
-
-<p align="center">
-  <a href="https://your-ecommerce-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-#### 🎯 Overview
-A full-featured e-commerce platform with modern design and seamless user experience.
-
-#### ⚡ Key Features
-- 🛍️ Product Management
-- 🛒 Shopping Cart
-- 💳 Payment Integration
-- 🔍 Advanced Search
-- 📊 Admin Dashboard
-
-#### 🛠️ Tech Stack
-- Frontend: `Next.js` `Redux Toolkit` `Styled Components`
-- Backend: `Node.js` `Express.js` `MongoDB`
-- Tools: `Stripe` `Redis` `Docker`
-
-</details>
-
-<!-- More Projects Button -->
-<p align="center">
-  <a href="https://github.com/yash-babariya?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
 
 </div>
 
@@ -170,11 +126,8 @@ A full-featured e-commerce platform with modern design and seamless user experie
   <a href="https://linkedin.com/in/yash-babariya-a370b52a5">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:yashbabariyaeklera@gamil.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
