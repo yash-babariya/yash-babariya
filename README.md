@@ -139,10 +139,6 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px"/>
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="120" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1520" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="920" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="720" />
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=100&section=footer"/>
 
