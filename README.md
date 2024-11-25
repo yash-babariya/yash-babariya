@@ -22,28 +22,10 @@
   </a>
 </p>
 
-<!-- Tech Stack -->
-<h2 align="center">
-  <div style="
-    background: linear-gradient(45deg, #3b82f6, #1e40af);
-    width: fit-content;
-    margin: 20px auto;
-    padding: 15px 30px;
-    border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);
-    position: relative;
-  ">
-    <span style="
-      color: white;
-      font-size: 26px;
-      font-weight: bold;
-      letter-spacing: 1px;
-      text-transform: uppercase;
-    ">
-      TECH STACK
-    </span>
-  </div>
-</h2>
+## 🚀 TECH STACK
+<div align="center">
+  <img src="https://img.shields.io/badge/_____________-0D1117?style=for-the-badge&color=0D1117" width="250" height="3">
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker&theme=dark&perline=5"/>
 </p>
