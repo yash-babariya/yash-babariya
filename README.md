@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: url('https://raw.githubusercontent.com/yash-babariya/yash-babariya/main/assets/matrix.gif') center center fixed; background-size: cover;">
 
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=200&section=header&text=Yash%20Babariya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
