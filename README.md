@@ -32,7 +32,7 @@
 ## 🚀 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker&theme=dark&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker,html,css,sass,vscode,github&theme=dark&perline=5"/>
 </p>
 
 <!-- Tools & Technologies -->
