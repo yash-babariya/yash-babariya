@@ -52,9 +52,9 @@
 
 <!-- Projects Section -->
 <h2 align="center">
-  <div style="background: linear-gradient(45deg, #3DDCFF, #9B30FF); padding: 8px 16px; border-radius: 20px; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 4px 15px rgba(61, 220, 255, 0.2);">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="30" height="30" style="margin-right: 8px;" />
-    <span style="background: linear-gradient(45deg, #FFF, #E0FFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; font-weight: 600;">Featured Projects</span>
+  <div style="display: inline-block; position: relative;">
+    <span style="font-size: 28px; font-weight: 600; color: #fff;">Featured Projects</span>
+    <div style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 3px; background: linear-gradient(to right, #3DDCFF, #9B30FF);"></div>
   </div>
 </h2>
 
