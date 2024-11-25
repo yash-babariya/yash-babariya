@@ -121,10 +121,9 @@
 
 <!-- Proud Indian Section -->
 <p align="center" style="margin-top: 50px;">
-  <img src="https://img.shields.io/badge/Proud_to_be-Indian-FF9933?style=for-the-badge&labelColor=FF9933&color=138808&logoWidth=40" />
-</p>
-<p align="center">
-  <i>"जय हिन्द । वंदे मातरम् ।"</i>
+  <img src="https://img.shields.io/badge/Proud_to_be-Indian-FF9933?style=for-the-badge&labelColor=FF9933&color=138808" />
+  <img src="https://img.shields.io/badge/जय_हिन्द-🇮🇳-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" />
+  <img src="https://img.shields.io/badge/वंदे-मातरम्-138808?style=for-the-badge&labelColor=138808&color=138808" />
 </p>
 
 <!-- Footer -->
