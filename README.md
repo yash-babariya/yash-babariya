@@ -119,6 +119,14 @@
   </a>
 </p>
 
+<!-- Proud Indian Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🇮🇳_Proud_to_be_Indian_🇮🇳-FF9933?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <i>"जय हिन्द । वंदे मातरम् ।"</i>
+</p>
+
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=100&section=footer"/>
 
