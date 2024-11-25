@@ -121,7 +121,7 @@
 
 <!-- Proud Indian Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Proud_to_be-Indian-FF9933?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMjUgMTUwIj48cmVjdCB3aWR0aD0iMjI1IiBoZWlnaHQ9IjUwIiBmaWxsPSIjRkY5OTMzIi8+PHJlY3QgeT0iNTAiIHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIGZpbGw9IiNGRkZGRkYiLz48cmVjdCB5PSIxMDAiIHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIGZpbGw9IiMxMzhEMjUiLz48L3N2Zz4="/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DDCFF&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer+%F0%9F%9A%80;Code+Craftsman+%F0%9F%94%A8;Problem+Solver+%F0%9F%A7%A9;Proud+Indian+🇮🇳"/>
 </p>
 <p align="center">
   <i>"जय हिन्द । वंदे मातरम् ।"</i>
