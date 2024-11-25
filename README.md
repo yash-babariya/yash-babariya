@@ -11,6 +11,7 @@
 <!-- Animated Emojis -->
 <p align="center" style="display: flex; justify-content: space-between; max-width: 960px;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" height="100"/>
+  <h2>Hello!! DeVELOper</h2>
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="100" height="100" />
 </p>
 
