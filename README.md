@@ -51,51 +51,56 @@
 </div>
 
 <!-- Projects Section -->
-<div style="margin: 30px 0;">
-  <h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="25" height="25" />
-    Featured Projects
-  </h2>
+<h2 align="center">
+  <div style="background: linear-gradient(45deg, #3DDCFF, #9B30FF); padding: 8px 16px; border-radius: 20px; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 4px 15px rgba(61, 220, 255, 0.2);">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="30" height="30" style="margin-right: 8px;" />
+    <span style="background: linear-gradient(45deg, #FFF, #E0FFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; font-weight: 600;">Featured Projects</span>
+  </div>
+</h2>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0; padding: 0 20px;">
-    <!-- JustAdd -->
-    <div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3 style="margin: 0 0 10px 0;">🌟 JustAdd</h3>
-      <p style="margin: 10px 0;">Modern MERN Social Media Platform</p>
-      <p style="margin: 10px 0;">
-        <code style="background: #2d2d2d; padding: 3px 6px; border-radius: 4px; margin: 0 4px;">React</code>
-        <code style="background: #2d2d2d; padding: 3px 6px; border-radius: 4px; margin: 0 4px;">Node.js</code>
-        <code style="background: #2d2d2d; padding: 3px 6px; border-radius: 4px; margin: 0 4px;">MongoDB</code>
-      </p>
-      <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
-        <a href="https://justadd.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge"/></a>
-        <a href="https://github.com/yash-babariya/justadd"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge"/></a>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(280px, 1fr)); gap: 16px;">
+  
+  <!-- JustAdd -->
+  <a href="https://github.com/yash-babariya/justadd" style="text-decoration: none;">
+    <div style="background: #1a1b27; padding: 16px; border-radius: 10px; border: 1px solid #2d2d2d;">
+      <h3>🌟 JustAdd</h3>
+      <p>Modern Social Media Platform</p>
+      <div style="margin: 8px 0;">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+      </div>
+      <div style="display: flex; gap: 8px; justify-content: center;">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
       </div>
     </div>
+  </a>
 
-    <!-- MyFamilyHelper -->
-    
-    <div style="background: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <h3 style="margin: 0 0 10px 0;">👨‍👩‍👧‍👦 MyFamilyHelper</h3>
-      <p style="margin: 10px 0;">Family Management Application</p>
-      <p style="margin: 10px 0;">
-        <code style="background: #2d2d2d; padding: 3px 6px; border-radius: 4px; margin: 0 4px;">React</code>
-        <code style="background: #2d2d2d; padding: 3px 6px; border-radius: 4px; margin: 0 4px;">Express</code>
-        <code style="background: #2d2d2d; padding: 3px 6px; border-radius: 4px; margin: 0 4px;">AWS</code>
-      </p>
-      <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
-        <a href="https://myfamilyhelper.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge"/></a>
-        <a href="https://github.com/yash-babariya/myfamilyhelper"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge"/></a>
+  <!-- MyFamilyHelper -->
+  <a href="https://github.com/yash-babariya/myfamilyhelper" style="text-decoration: none;">
+    <div style="background: #1a1b27; padding: 16px; border-radius: 10px; border: 1px solid #2d2d2d;">
+      <h3>👨‍👩‍👧‍👦 MyFamilyHelper</h3>
+      <p>Family Task Management App</p>
+      <div style="margin: 8px 0;">
+        <img src="https://img.shields.io/badge/MERN-00ED64?style=flat"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      </div>
+      <div style="display: flex; gap: 8px; justify-content: center;">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
       </div>
     </div>
-    
-  </div>
+  </a>
 
-  <div style="margin: 20px 0;">
-    <a href="https://github.com/yash-babariya?tab=repositories">
-      <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
-    </a>
-  </div>
+</div>
+
+<!-- View All Projects Button -->
+<div style="margin-top: 16px;">
+  <a href="https://github.com/yash-babariya?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
 </div>
 
 <!-- Contribution Graph -->
