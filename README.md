@@ -47,7 +47,7 @@
 <!-- ... previous code ... -->
 
 <h2>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> Featured Projects
+Featured Projects
 </h2>
 
 <div align="center">
