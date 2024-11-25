@@ -1,7 +1,14 @@
-<div align="center" style="background: url('https://raw.githubusercontent.com/yash-babariya/yash-babariya/main/assets/matrix.gif') center center fixed; background-size: cover;">
+<div align="center">
 
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=200&section=header&text=Yash%20Babariya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
+
+<!-- Cyberpunk Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=%3C%2F%3E+YASH+BABARIYA;System+%3D+Online;Status+%3D+Coding..." />
+</h1>
 
 <!-- Animated Emojis -->
 <p align="center" style="display: flex; justify-content: space-between; max-width: 960px;">
