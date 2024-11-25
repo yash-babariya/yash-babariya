@@ -50,8 +50,12 @@
 
 </div>
 
-<!-- Featured Projects -->
 ## 🌟 FEATURED PROJECTS
+
+| Projects | Live Demo | Repository | Description | Tech Stack |
+|:---------|:---------:|:----------:|:------------|:-----------|
+| 🛍️ Just Add | [Live Demo](https://justadd.vercel.app) | [Source Code](https://github.com/yash-babariya/justadd) | Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings. | `React.js` `Redux` `SCSS` `React Router` |
+| 👨‍👩‍👧‍👦 MyFamilyHelper | [Live Demo](https://myfamilyhelper.vercel.app) | [Source Code](https://github.com/yash-babariya/myfamilyhelper) | Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location. | `MongoDB` `Express` `React` `Node.js` |
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
   
@@ -100,7 +104,6 @@
   </a>
 
 </div>
-
 <!-- View All Projects -->
 <p align="center">
   <a href="https://github.com/yash-babariya?tab=repositories" target="_blank">
