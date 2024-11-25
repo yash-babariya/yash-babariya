@@ -121,7 +121,7 @@
 
 <!-- Proud Indian Section -->
 <p align="center" style="margin-top: 50px;">
-  <img src="https://img.shields.io/badge/🇮🇳_Proud_to_be_Indian_·_जय_हिन्द_🇮🇳-138808?style=for-the-badge&labelColor=FF9933&color=138808&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAxOCI+PHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjE4IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/🇮🇳_Proud_to_be-Indian-138808?style=for-the-badge&labelColor=FF9933&color=138808&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAxOCI+PHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjE4IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
 </p>
 
 <!-- Footer -->
