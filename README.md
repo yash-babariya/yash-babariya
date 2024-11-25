@@ -3,14 +3,6 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=200&section=header&text=Yash%20Babariya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-
-
-<!-- Hacker Style Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-OK-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System-Online-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
-</p>
-
 <!-- Animated Emojis -->
 <p align="center" style="display: flex; justify-content: space-between; max-width: 960px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
@@ -21,6 +13,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DDCFF&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer+%F0%9F%9A%80;Code+Craftsman+%F0%9F%94%A8;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%92%A1"/>
 </p>
+
+<!-- Hacker Style Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-OK-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System-Online-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+</p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
