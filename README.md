@@ -50,10 +50,9 @@
   </div>
 </div>
 
+<!-- Main Projects Heading -->
 <h2 align="center">
-  <span style="font-size: 30px; font-weight: 600; background: linear-gradient(45deg, #3DDCFF, #9B30FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Featured Projects
-  </span>
+  <img src="https://img.shields.io/badge/Featured_Projects-3DDCFF?style=for-the-badge&logoColor=black"/>
 </h2>
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(280px, 1fr)); gap: 20px; padding: 20px;">
@@ -61,8 +60,8 @@
   <!-- Just Add -->
   <a href="https://github.com/yash-babariya/justadd" style="text-decoration: none;">
     <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: transform 0.3s;">
-      <h3 style="color: #3DDCFF; margin-bottom: 10px;">🛍️ Just Add</h3>
-      <p style="color: #fff; font-size: 14px; margin-bottom: 15px;">Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings.</p>
+      <img src="https://img.shields.io/badge/🛍️_Just_Add-1a1b27?style=for-the-badge&logo=shopify&logoColor=3DDCFF"/>
+      <p style="color: #fff; font-size: 14px; margin: 15px 0;">Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings.</p>
       <div style="margin: 15px 0;">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
@@ -79,8 +78,8 @@
   <!-- MyFamilyHelper -->
   <a href="https://github.com/yash-babariya/myfamilyhelper" style="text-decoration: none;">
     <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: transform 0.3s;">
-      <h3 style="color: #3DDCFF; margin-bottom: 10px;">👨‍👩‍👧‍👦 MyFamilyHelper</h3>
-      <p style="color: #fff; font-size: 14px; margin-bottom: 15px;">Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location.</p>
+      <img src="https://img.shields.io/badge/👨‍👩‍👧‍👦_MyFamilyHelper-1a1b27?style=for-the-badge&logo=homebridge&logoColor=3DDCFF"/>
+      <p style="color: #fff; font-size: 14px; margin: 15px 0;">Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location.</p>
       <div style="margin: 15px 0;">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
@@ -96,6 +95,7 @@
 
 </div>
 
+<!-- View All Projects Button -->
 <div style="margin-top: 20px;">
   <a href="https://github.com/yash-babariya?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
