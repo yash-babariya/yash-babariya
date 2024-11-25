@@ -44,117 +44,84 @@
 </p>
 
 <!-- Added animated project cards -->
-<!-- ... previous code ... -->
+## 🚀 Featured Projects
 
-<h2>
-Featured Projects
-</h2>
+### Enterprise Solutions
+
+<details>
+<summary><strong>🌐 Advanced E-Commerce Platform</strong></summary>
+
+#### Overview
+Enterprise-grade e-commerce solution with microservices architecture and real-time inventory management.
+
+#### Key Technologies
+- **Frontend:** Next.js, Redux Toolkit, TypeScript
+- **Backend:** Node.js, Express, MongoDB
+- **DevOps:** Docker, AWS, CI/CD
+- **Testing:** Jest, React Testing Library
+
+#### Core Features
+- Microservices Architecture
+- Real-time Inventory Management
+- Advanced Analytics Dashboard
+- Multi-vendor Support
+- Payment Gateway Integration
+
+[View Demo](https://demo-link) | [GitHub](https://github-link)
+</details>
+
+### Web Applications
+
+<details>
+<summary><strong>💼 Project Management System</strong></summary>
+
+#### Overview
+Scalable project management solution with real-time collaboration features and automated workflows.
+
+#### Key Technologies
+- **Frontend:** React.js, Material-UI, Socket.io
+- **Backend:** Node.js, Express, MongoDB
+- **Cloud:** AWS S3, CloudFront
+- **Authentication:** JWT, OAuth2.0
+
+#### Core Features
+- Real-time Task Management
+- Resource Allocation
+- Automated Reporting
+- Team Collaboration Tools
+- File Management System
+
+[View Demo](https://demo-link) | [GitHub](https://github-link)
+</details>
+
+### Mobile Solutions
+
+<details>
+<summary><strong>📱 Cross-platform Social Media App</strong></summary>
+
+#### Overview
+Feature-rich social media application with real-time messaging and content sharing capabilities.
+
+#### Key Technologies
+- **Frontend:** React Native, Redux
+- **Backend:** Node.js, Express, MongoDB
+- **Real-time:** Socket.io
+- **Storage:** Firebase
+
+#### Core Features
+- Real-time Messaging
+- Media Sharing
+- Social Graph
+- Push Notifications
+- Offline Support
+
+[View Demo](https://demo-link) | [GitHub](https://github-link)
+</details>
 
 <div align="center">
-
-<!-- Project 1 -->
-<details>
-<summary>
-  <h3>🌟 JustAdd - Social Media Platform</h3>
-</summary>
-
-<p align="center">
-  <img src="https://your-image-url.com/justadd-preview.png" alt="JustAdd Preview" width="600px"/>
-</p>
-
-<p align="center">
-  <a href="https://justadd.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/yash-babariya/justadd"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-#### 🎯 Overview
-A modern social media platform built with the MERN stack, featuring real-time interactions and a sleek user interface.
-
-#### ⚡ Key Features
-- 🔐 JWT Authentication & Authorization
-- 📱 Responsive Design
-- 💬 Real-time Chat
-- 🖼️ Image Upload & Sharing
-- 👥 User Following System
-
-#### 🛠️ Tech Stack
-- Frontend: `React.js` `Redux` `Tailwind CSS`
-- Backend: `Node.js` `Express.js` `MongoDB`
-- Tools: `Socket.io` `Cloudinary` `JWT`
-
-</details>
-
-<!-- Project 2 -->
-<details>
-<summary>
-  <h3>👨‍👩‍👧‍👦 MyFamilyHelper - Family Management App</h3>
-</summary>
-
-<p align="center">
-  <img src="https://your-image-url.com/familyhelper-preview.png" alt="MyFamilyHelper Preview" width="600px"/>
-</p>
-
-<p align="center">
-  <a href="https://myfamilyhelper.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/yash-babariya/myfamilyhelper"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-#### 🎯 Overview
-A comprehensive family management application that helps families organize tasks, events, and memories.
-
-#### ⚡ Key Features
-- 📅 Family Calendar
-- ✅ Task Management
-- 💰 Expense Tracking
-- 📸 Photo Albums
-- 🎉 Event Planning
-
-#### 🛠️ Tech Stack
-- Frontend: `React.js` `Context API` `Material-UI`
-- Backend: `Node.js` `Express.js` `MongoDB`
-- Tools: `AWS S3` `Firebase` `Redux`
-
-</details>
-
-<!-- Project 3 -->
-<details>
-<summary>
-  <h3>🛒 E-Commerce Platform</h3>
-</summary>
-
-<p align="center">
-  <img src="https://your-image-url.com/ecommerce-preview.png" alt="E-Commerce Preview" width="600px"/>
-</p>
-
-<p align="center">
-  <a href="https://your-ecommerce-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-#### 🎯 Overview
-A full-featured e-commerce platform with modern design and seamless user experience.
-
-#### ⚡ Key Features
-- 🛍️ Product Management
-- 🛒 Shopping Cart
-- 💳 Payment Integration
-- 🔍 Advanced Search
-- 📊 Admin Dashboard
-
-#### 🛠️ Tech Stack
-- Frontend: `Next.js` `Redux Toolkit` `Styled Components`
-- Backend: `Node.js` `Express.js` `MongoDB`
-- Tools: `Stripe` `Redis` `Docker`
-
-</details>
-
-<!-- More Projects Button -->
-<p align="center">
   <a href="https://github.com/yash-babariya?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/View_All_Projects-0366d6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
 </div>
 
 <!-- Added animated contribution graph -->
