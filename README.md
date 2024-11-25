@@ -64,7 +64,7 @@
 <!-- View All Projects -->
 <p align="center">
   <a href="https://github.com/yash-babariya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
