@@ -44,72 +44,55 @@
 </p>
 
 <!-- Added animated project cards -->
-<!-- ... previous code ... -->
-
+<!-- Projects Section -->
 <h2>
-Featured Projects
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="25" height="25" />
+  Featured Projects
 </h2>
 
 <div align="center">
 
-<!-- Project 1 -->
-<details>
-<summary>
-  <h3>🌟 JustAdd - Social Media Platform</h3>
-</summary>
-  
+<!-- Project Cards in Grid -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+
+  <!-- JustAdd -->
+  <div align="center">
+    <h3>🌟 JustAdd</h3>
+    <p>Modern MERN Social Media Platform</p>
+    <p>
+      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
+    </p>
+    <p align="center">
+      <a href="https://justadd.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge"/></a>
+      <a href="https://github.com/yash-babariya/justadd"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge"/></a>
+    </p>
+  </div>
+
+  <!-- MyFamilyHelper -->
+  <div align="center">
+    <h3>👨‍👩‍👧‍👦 MyFamilyHelper</h3>
+    <p>Family Management Application</p>
+    <p>
+      <code>React</code> <code>Express</code> <code>AWS</code>
+    </p>
+    <p align="center">
+      <a href="https://myfamilyhelper.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge"/></a>
+      <a href="https://github.com/yash-babariya/myfamilyhelper"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge"/></a>
+    </p>
+  </div>
+
+  <!-- Add more projects in the same format -->
+
+</div>
+
+<!-- View All Projects Button -->
 <p align="center">
-  <a href="https://justadd.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/yash-babariya/justadd"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/yash-babariya?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
 </p>
 
-#### 🎯 Overview
-A modern social media platform built with the MERN stack, featuring real-time interactions and a sleek user interface.
-
-#### ⚡ Key Features
-- 🔐 JWT Authentication & Authorization
-- 📱 Responsive Design
-- 💬 Real-time Chat
-- 🖼️ Image Upload & Sharing
-- 👥 User Following System
-
-#### 🛠️ Tech Stack
-- Frontend: `React.js` `Redux` `Tailwind CSS`
-- Backend: `Node.js` `Express.js` `MongoDB`
-- Tools: `Socket.io` `Cloudinary` `JWT`
-
-</details>
-
-<!-- Project 2 -->
-<details>
-<summary>
-  <h3>👨‍👩‍👧‍👦 MyFamilyHelper - Family Management App</h3>
-</summary>
-
-<p align="center">
-  <a href="https://myfamilyhelper.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/yash-babariya/myfamilyhelper"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-#### 🎯 Overview
-A comprehensive family management application that helps families organize tasks, events, and memories.
-
-#### ⚡ Key Features
-- 📅 Family Calendar
-- ✅ Task Management
-- 💰 Expense Tracking
-- 📸 Photo Albums
-- 🎉 Event Planning
-
-#### 🛠️ Tech Stack
-- Frontend: `React.js` `Context API` `Material-UI`
-- Backend: `Node.js` `Express.js` `MongoDB`
-- Tools: `AWS S3` `Firebase` `Redux`
-
-</details>
-
-<!-- Project 3 -->
-<details>
+</div>
 
 </div>
 
