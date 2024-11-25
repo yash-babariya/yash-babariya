@@ -100,7 +100,6 @@
 ## 📈 CONTRIBUTION GRAPH
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-babariya&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<!-- Let's Connect -->
 ## 🤝 LET'S CONNECT
 <p align="center">
   <a href="https://linkedin.com/in/yash-babariya-a370b52a5" target="_blank">
@@ -108,6 +107,15 @@
   </a>
   <a href="mailto:yashbabariyaeklera@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yash-babariya.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yashbabariyaeklera/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="tel:+918553535342">
+    <img src="https://img.shields.io/badge/-8553535342-4285F4?style=for-the-badge&logo=mobile&logoColor=white"/>
   </a>
 </p>
 
