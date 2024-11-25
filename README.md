@@ -44,8 +44,9 @@
 
 <!-- Featured Projects -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=8b5cf6" width="300" height="40"/>
+  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=ec4899" width="300" height="40"/>
 </p>
+
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
   
   <!-- Just Add -->
