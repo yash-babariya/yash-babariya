@@ -1,41 +1,38 @@
 <div align="center">
 
-<!-- 3D Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,21&height=200&section=header&text=Yash%20Babariya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20MERN%20Stack%20Developer&descSize=20&descAlignY=50"/>
+<!-- Added animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=200&section=header&text=Yash%20Babariya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- 3D Decorative Elements -->
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/developer.png" width="80" height="80" alt="Developer"/>
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/rocket.png" width="80" height="80" alt="Rocket"/>
-</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" align="left"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" align="right"/>
 
-<!-- Dynamic Text -->
+<!-- Added glowing text effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=3DDCFF&center=true&vCenter=true&random=false&width=535&lines=Senior+MERN+Developer+⚡;Full+Stack+Architect+🔨;Tech+Innovation+Leader+💡;Problem+Solving+Expert+🧩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DDCFF&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer+%F0%9F%9A%80;Code+Craftsman+%F0%9F%94%A8;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
-<!-- GitHub Stats -->
+<!-- Added animated stats cards -->
 <p align="center">
   <a href="https://github.com/yash-babariya">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yash-babariya&show_icons=true&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-babariya&layout=compact&theme=react&bg_color=0D1117&title_color=3DDCFF&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yash-babariya&show_icons=true&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-babariya&layout=compact&theme=react&bg_color=0D1117&title_color=3DDCFF&hide_border=true"/>
   </a>
 </p>
 
-<!-- Tech Stack Section -->
+<!-- Added animated skill icons -->
 <h2>
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/tools.png" width="40" height="40" alt="Tools"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
   Tech Stack
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker,firebase,aws&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker&theme=dark&perline=5"/>
 </p>
 
-<!-- Development Tools -->
+<!-- Added animated tools section -->
 <h2>
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/gear.png" width="40" height="40" alt="Development"/>
-  Development Arsenal
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />
+  Tools & Technologies
 </h2>
 
 <p align="center">
@@ -44,25 +41,25 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<!-- Featured Projects -->
+<!-- Added animated project cards -->
+<!-- ... previous code ... -->
+
 <h2>
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/rocket-launch.png" width="40" height="40" alt="Projects"/>
-  Featured Projects
+Featured Projects
 </h2>
 
 <div align="center">
 
 <!-- Project 1 -->
-<details open>
+<details>
 <summary>
-  <h3>🚀 JustAdd - Social Media Platform</h3>
+  <h3>🌟 JustAdd - Social Media Platform</h3>
 </summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/web-development.png" width="300" alt="JustAdd Preview"/>
+  <img src="https://your-image-url.com/justadd-preview.png" alt="JustAdd Preview" width="600px"/>
 </p>
 
 <p align="center">
@@ -84,16 +81,17 @@ A modern social media platform built with the MERN stack, featuring real-time in
 - Frontend: `React.js` `Redux` `Tailwind CSS`
 - Backend: `Node.js` `Express.js` `MongoDB`
 - Tools: `Socket.io` `Cloudinary` `JWT`
+
 </details>
 
 <!-- Project 2 -->
 <details>
 <summary>
-  <h3>🏠 MyFamilyHelper - Family Management App</h3>
+  <h3>👨‍👩‍👧‍👦 MyFamilyHelper - Family Management App</h3>
 </summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/mobile-development.png" width="300" alt="MyFamilyHelper Preview"/>
+  <img src="https://your-image-url.com/familyhelper-preview.png" alt="MyFamilyHelper Preview" width="600px"/>
 </p>
 
 <p align="center">
@@ -115,6 +113,39 @@ A comprehensive family management application that helps families organize tasks
 - Frontend: `React.js` `Context API` `Material-UI`
 - Backend: `Node.js` `Express.js` `MongoDB`
 - Tools: `AWS S3` `Firebase` `Redux`
+
+</details>
+
+<!-- Project 3 -->
+<details>
+<summary>
+  <h3>🛒 E-Commerce Platform</h3>
+</summary>
+
+<p align="center">
+  <img src="https://your-image-url.com/ecommerce-preview.png" alt="E-Commerce Preview" width="600px"/>
+</p>
+
+<p align="center">
+  <a href="https://your-ecommerce-link.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+#### 🎯 Overview
+A full-featured e-commerce platform with modern design and seamless user experience.
+
+#### ⚡ Key Features
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- 💳 Payment Integration
+- 🔍 Advanced Search
+- 📊 Admin Dashboard
+
+#### 🛠️ Tech Stack
+- Frontend: `Next.js` `Redux Toolkit` `Styled Components`
+- Backend: `Node.js` `Express.js` `MongoDB`
+- Tools: `Stripe` `Redis` `Docker`
+
 </details>
 
 <!-- More Projects Button -->
@@ -126,36 +157,36 @@ A comprehensive family management application that helps families organize tasks
 
 </div>
 
-<!-- Contribution Graph -->
+<!-- Added animated contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-babariya&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<!-- Connect Section -->
+<!-- Added animated connect section -->
 <h2>
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/handshake.png" width="40" height="40" alt="Connect"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
   Let's Connect
 </h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/yash-babariya-a370b52a5">
-    <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/linkedin.png" width="48" height="48" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yashbabariya4545@gmail.com">
-    <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/envelope.png" width="48" height="48" alt="Email"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/yash-babariya">
-    <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/github.png" width="48" height="48" alt="GitHub"/>
+  <a href="https://twitter.com/your_twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
-<!-- Music Section -->
+<!-- Added animated Spotify widget -->
 <h2>
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/3D-Icons/main/icons/headphones.png" width="40" height="40" alt="Music"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
   Currently Vibing To
 </h2>
 
 [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,21&height=100&section=footer"/>
+<!-- Added animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=100&section=footer"/>
 
 </div>
