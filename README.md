@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="tel:+918553535342">
-    <img src="https://img.shields.io/badge/-8553535342-4285F4?style=for-the-badge&logo=mobile&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-+91_8553535342-4285F4?style=for-the-badge&logo=mobile&logoColor=white"/>
   </a>
 </p>
 
