@@ -97,7 +97,7 @@
   </a>
 </p>
 
-<!-- Contribution Graph -->
+## 📈 CONTRIBUTION GRAPH
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-babariya&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <!-- Let's Connect -->
