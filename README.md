@@ -23,9 +23,16 @@
 </p>
 
 <!-- Tech Stack -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech_Stack-88888?style=for-the-badge&logoColor=black" hight="50"/>
-</p>
+<h2 align="center">
+  <span style="background: linear-gradient(45deg, #3b82f6, #1e40af); 
+               padding: 10px 20px; 
+               border-radius: 8px; 
+               color: white; 
+               font-size: 24px;
+               box-shadow: 0 4px 15px rgba(59, 130, 246, 0.2);">
+    TECH STACK
+  </span>
+</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker&theme=dark&perline=5"/>
 </p>
@@ -44,7 +51,7 @@
 
 <!-- Featured Projects -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=ec4899" width="300" height="40"/>
+  <img src="https://img.shields.io/badge/Tech_Stack-88888?style=for-the-badge&logoColor=black"/>
 </p>
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
