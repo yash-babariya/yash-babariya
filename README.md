@@ -5,10 +5,11 @@
 
 
 
-<!-- Cyberpunk Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=%3C%2F%3E+YASH+BABARIYA;System+%3D+Online;Status+%3D+Coding..." />
-</h1>
+<!-- Hacker Style Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Hacking...-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System-Online-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+</p>
 
 <!-- Animated Emojis -->
 <p align="center" style="display: flex; justify-content: space-between; max-width: 960px;">
